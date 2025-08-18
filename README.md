@@ -19,7 +19,7 @@ AI study
 **기간 :**  2025.06.23 ~ 2025.08.01
 ***
 ## 프로젝트 계획도
-![Projectimg](imgs/readme/project.png)
+![Projectimg](imgs/goat.jpg)
 
 ## ERD
 ![ERD](imgs/readme/ERD.png)
